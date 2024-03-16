@@ -1,5 +1,7 @@
 This is code for demostrating reading of raw flux data from old floppy drivers using nothing but Raspberry Pi with linux. Currently works at least with Raspberry Pi 4.
 
+Video here: https://www.youtube.com/watch?v=T3Agz-ysPac
+
 1. You should add isolcpus=1,2,3 to your /boot/cmdline.txt
 2. You should edit mfmkmod.c for desired path
 
